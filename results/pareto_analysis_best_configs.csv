@@ -1,0 +1,2 @@
+variant,config_key,epochs,batch,lr,f1_macro,accuracy,gflops,size_mb,inf_time_ms,pareto_dominated
+n,n_ep25_bs16_lr1e-02,25,16,0.01,0.5712470862470863,0.6,0.398312704,3.06,10.72,False
