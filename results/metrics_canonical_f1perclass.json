@@ -1,0 +1,1750 @@
+{
+  "m_ep25_bs16_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.7142857142857143,
+      "12_full_load_production": 0.6,
+      "29_natural_flowing": 0.7368421052631579,
+      "30_pump_leakage": 0.6,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.7777777777777778,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.5
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6875,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.42105263157894735,
+      "30_pump_leakage": 0.375,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7272727272727273,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.2222222222222222
+    }
+  },
+  "m_ep25_bs16_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.7407407407407407,
+      "12_full_load_production": 0.8333333333333334,
+      "29_natural_flowing": 0.7368421052631579,
+      "30_pump_leakage": 0.4,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7,
+      "severe_insufficient_liquid_supply": 1.0,
+      "vibration": 0.4
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5217391304347826,
+      "12_full_load_production": 0.5,
+      "29_natural_flowing": 0.37037037037037035,
+      "30_pump_leakage": 0.3076923076923077,
+      "collide_pump_and_vibration": 0.75,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.625,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.2222222222222222
+    }
+  },
+  "m_ep25_bs16_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.32,
+      "natural_flowing": 0.25806451612903225,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.4,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.3125,
+      "natural_flowing": 0.3448275862068966,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.4186046511627907,
+      "vibration": 0.0
+    }
+  },
+  "m_ep25_bs32_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.8148148148148148,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.5555555555555556,
+      "30_pump_leakage": 0.5,
+      "collide_pump_and_vibration": 0.8,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.8235294117647058,
+      "insufficient_liquid_supply_and_vibration": 0.8235294117647058,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.9090909090909091
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6153846153846154,
+      "12_full_load_production": 0.8888888888888888,
+      "29_natural_flowing": 0.4166666666666667,
+      "30_pump_leakage": 0.2857142857142857,
+      "collide_pump_and_vibration": 0.75,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.25
+    }
+  },
+  "m_ep25_bs32_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.7272727272727273,
+      "29_natural_flowing": 0.7619047619047619,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.6923076923076923,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.2222222222222222
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5384615384615384,
+      "12_full_load_production": 0.5,
+      "29_natural_flowing": 0.5185185185185185,
+      "30_pump_leakage": 0.36363636363636365,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.88,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.0
+    }
+  },
+  "m_ep25_bs32_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.3333333333333333,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.2857142857142857,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.38095238095238093,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.375,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.3157894736842105,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.38095238095238093,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    }
+  },
+  "m_ep25_bs8_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.6,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.875,
+      "insufficient_liquid_supply_and_vibration": 0.9473684210526315,
+      "natural_flowing": 0.75,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.8888888888888888,
+      "vibration": 0.6
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 1.0,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.9565217391304348,
+      "natural_flowing": 0.5925925925925926,
+      "pump_leakage": 0.46153846153846156,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.8148148148148148,
+      "vibration": 0.5
+    }
+  },
+  "m_ep25_bs8_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.9090909090909091,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.7692307692307693,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "natural_flowing": 0.7619047619047619,
+      "pump_leakage": 0.6,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.7586206896551724,
+      "vibration": 0.5
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.75,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.46153846153846156,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "natural_flowing": 0.48,
+      "pump_leakage": 0.46153846153846156,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.7333333333333333,
+      "vibration": 0.0
+    }
+  },
+  "m_ep25_bs8_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.24,
+      "natural_flowing": 0.35714285714285715,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.5106382978723404,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.4666666666666667,
+      "natural_flowing": 0.30303030303030304,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.3902439024390244,
+      "vibration": 0.0
+    }
+  },
+  "m_ep50_bs8_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.3333333333333333,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.15384615384615385,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.35,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    }
+  },
+  "n_ep25_bs16_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.9090909090909091,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "natural_flowing": 0.5,
+      "pump_leakage": 0.5,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.7741935483870968,
+      "vibration": 0.2857142857142857
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 1.0,
+      "gas_influence": 0.8,
+      "gas_influence_and_vibration": 0.7692307692307693,
+      "insufficient_liquid_supply_and_vibration": 0.8695652173913043,
+      "natural_flowing": 0.5,
+      "pump_leakage": 0.42857142857142855,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.75,
+      "vibration": 0.4444444444444444
+    }
+  },
+  "n_ep25_bs16_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.6666666666666666,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7368421052631579,
+      "natural_flowing": 0.6666666666666666,
+      "pump_leakage": 0.6,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.7586206896551724,
+      "vibration": 0.18181818181818182
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.9090909090909091,
+      "natural_flowing": 0.42105263157894735,
+      "pump_leakage": 0.4,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.6486486486486487,
+      "vibration": 0.2222222222222222
+    }
+  },
+  "n_ep25_bs16_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.3333333333333333,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.18181818181818182,
+      "insufficient_liquid_supply_and_vibration": 0.45454545454545453,
+      "natural_flowing": 0.2857142857142857,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.45614035087719296,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.5,
+      "full_load_production": 0.3333333333333333,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.18181818181818182,
+      "insufficient_liquid_supply_and_vibration": 0.48,
+      "natural_flowing": 0.2727272727272727,
+      "pump_leakage": 0.4444444444444444,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "severe_vibration": 0.4583333333333333,
+      "vibration": 0.0
+    }
+  },
+  "n_ep25_bs32_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.9090909090909091,
+      "gas_influence": 0.75,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8235294117647058,
+      "natural_flowing": 0.6666666666666666,
+      "pump_leakage": 0.6153846153846154,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.8461538461538461,
+      "vibration": 0.7272727272727273
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 1.0,
+      "gas_influence": 1.0,
+      "gas_influence_and_vibration": 0.9230769230769231,
+      "insufficient_liquid_supply_and_vibration": 0.9565217391304348,
+      "natural_flowing": 0.5833333333333334,
+      "pump_leakage": 0.5,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.7096774193548387,
+      "vibration": 0.25
+    }
+  },
+  "n_ep25_bs32_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.5714285714285714,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.625,
+      "insufficient_liquid_supply_and_vibration": 0.7368421052631579,
+      "natural_flowing": 0.45454545454545453,
+      "pump_leakage": 0.2,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.6666666666666666,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.7142857142857143,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "natural_flowing": 0.5714285714285714,
+      "pump_leakage": 0.4444444444444444,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.6451612903225806,
+      "vibration": 0.2222222222222222
+    }
+  },
+  "n_ep25_bs32_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.3333333333333333,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.2,
+      "insufficient_liquid_supply_and_vibration": 0.5,
+      "natural_flowing": 0.14285714285714285,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.45614035087719296,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.3333333333333333,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.36363636363636365,
+      "insufficient_liquid_supply_and_vibration": 0.3448275862068966,
+      "natural_flowing": 0.375,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.4444444444444444,
+      "vibration": 0.0
+    }
+  },
+  "n_ep25_bs8_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.7272727272727273,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "natural_flowing": 0.6086956521739131,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.7692307692307693,
+      "vibration": 0.6
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 1.0,
+      "gas_influence": 0.8,
+      "gas_influence_and_vibration": 0.8571428571428571,
+      "insufficient_liquid_supply_and_vibration": 0.9166666666666666,
+      "natural_flowing": 0.6666666666666666,
+      "pump_leakage": 0.5454545454545454,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.8,
+      "vibration": 0.3333333333333333
+    }
+  },
+  "n_ep25_bs8_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.6666666666666666,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.6666666666666666,
+      "natural_flowing": 0.5263157894736842,
+      "pump_leakage": 0.2,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.7586206896551724,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "full_load_production": 0.75,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7692307692307693,
+      "insufficient_liquid_supply_and_vibration": 0.782608695652174,
+      "natural_flowing": 0.6666666666666666,
+      "pump_leakage": 0.36363636363636365,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.5806451612903226,
+      "vibration": 0.0
+    }
+  },
+  "n_ep25_bs8_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.4,
+      "full_load_production": 0.2857142857142857,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.16666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.5555555555555556,
+      "natural_flowing": 0.43478260869565216,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.46153846153846156,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.2222222222222222,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.5714285714285714,
+      "natural_flowing": 0.27586206896551724,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "severe_vibration": 0.2916666666666667,
+      "vibration": 0.0
+    }
+  },
+  "n_ep50_bs16_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.7272727272727273,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.9333333333333333,
+      "insufficient_liquid_supply_and_vibration": 1.0,
+      "natural_flowing": 0.7058823529411765,
+      "pump_leakage": 0.6666666666666666,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.8571428571428571,
+      "vibration": 0.7272727272727273
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "natural_flowing": 0.5263157894736842,
+      "pump_leakage": 0.47058823529411764,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.7586206896551724,
+      "vibration": 0.8
+    }
+  },
+  "n_ep50_bs16_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.8,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "natural_flowing": 0.7777777777777778,
+      "pump_leakage": 0.6666666666666666,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.7857142857142857,
+      "vibration": 0.36363636363636365
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 1.0,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.8,
+      "natural_flowing": 0.6,
+      "pump_leakage": 0.42857142857142855,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.75,
+      "vibration": 0.5
+    }
+  },
+  "n_ep50_bs16_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.6666666666666666,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.15384615384615385,
+      "insufficient_liquid_supply_and_vibration": 0.56,
+      "natural_flowing": 0.5263157894736842,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "severe_vibration": 0.6190476190476191,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.5714285714285714,
+      "insufficient_liquid_supply_and_vibration": 0.6956521739130435,
+      "natural_flowing": 0.5217391304347826,
+      "pump_leakage": 0.4444444444444444,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.6,
+      "vibration": 0.0
+    }
+  },
+  "n_ep50_bs32_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.6,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.8235294117647058,
+      "insufficient_liquid_supply_and_vibration": 0.9473684210526315,
+      "natural_flowing": 0.5555555555555556,
+      "pump_leakage": 0.5454545454545454,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.6206896551724138,
+      "vibration": 0.5454545454545454
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.5,
+      "full_load_production": 0.75,
+      "gas_influence": 0.8,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "natural_flowing": 0.6363636363636364,
+      "pump_leakage": 0.6153846153846154,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.8125,
+      "vibration": 0.4
+    }
+  },
+  "n_ep50_bs32_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "natural_flowing": 0.631578947368421,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.7407407407407407,
+      "vibration": 0.5333333333333333
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.8,
+      "gas_influence_and_vibration": 0.7142857142857143,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "natural_flowing": 0.6956521739130435,
+      "pump_leakage": 0.4444444444444444,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.6666666666666666,
+      "vibration": 0.46153846153846156
+    }
+  },
+  "n_ep50_bs32_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "full_load_production": 0.6666666666666666,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.15384615384615385,
+      "insufficient_liquid_supply_and_vibration": 0.5217391304347826,
+      "natural_flowing": 0.47619047619047616,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.6046511627906976,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7272727272727273,
+      "natural_flowing": 0.5217391304347826,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.5853658536585366,
+      "vibration": 0.0
+    }
+  },
+  "n_ep50_bs8_lr1e-02": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.8,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.7777777777777778,
+      "insufficient_liquid_supply_and_vibration": 0.8888888888888888,
+      "natural_flowing": 0.6666666666666666,
+      "pump_leakage": 0.8333333333333334,
+      "severe_insufficient_liquid_supply": 0.8,
+      "severe_vibration": 0.7857142857142857,
+      "vibration": 0.7272727272727273
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "natural_flowing": 0.64,
+      "pump_leakage": 0.36363636363636365,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.8387096774193549,
+      "vibration": 0.6666666666666666
+    }
+  },
+  "n_ep50_bs8_lr1e-03": {
+    "val": {
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.6666666666666666,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.75,
+      "natural_flowing": 0.631578947368421,
+      "pump_leakage": 0.5,
+      "severe_insufficient_liquid_supply": 0.8,
+      "severe_vibration": 0.7142857142857143,
+      "vibration": 0.25
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "full_load_production": 0.8888888888888888,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.5714285714285714,
+      "insufficient_liquid_supply_and_vibration": 0.7368421052631579,
+      "natural_flowing": 0.6363636363636364,
+      "pump_leakage": 0.42857142857142855,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "severe_vibration": 0.5806451612903226,
+      "vibration": 0.0
+    }
+  },
+  "n_ep50_bs8_lr1e-04": {
+    "val": {
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.75,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.2857142857142857,
+      "insufficient_liquid_supply_and_vibration": 0.6,
+      "natural_flowing": 0.5384615384615384,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.2857142857142857,
+      "severe_vibration": 0.65,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "collide_pump_and_vibration",
+      "full_load_production",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "natural_flowing",
+      "pump_leakage",
+      "severe_insufficient_liquid_supply",
+      "severe_vibration",
+      "vibration"
+    ],
+    "test": {
+      "collide_pump_and_vibration": 0.8,
+      "full_load_production": 0.6,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.5714285714285714,
+      "insufficient_liquid_supply_and_vibration": 0.7,
+      "natural_flowing": 0.5333333333333333,
+      "pump_leakage": 0.25,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.5,
+      "vibration": 0.0
+    }
+  },
+  "s_ep25_bs16_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.782608695652174,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.25
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5454545454545454,
+      "12_full_load_production": 0.9090909090909091,
+      "29_natural_flowing": 0.4,
+      "30_pump_leakage": 0.15384615384615385,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "gas_influence": 0.8,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.2857142857142857
+    }
+  },
+  "s_ep25_bs16_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.7142857142857143,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.6956521739130435,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.3333333333333333,
+      "gas_influence_and_vibration": 0.5882352941176471,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.2222222222222222
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6206896551724138,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.5925925925925926,
+      "30_pump_leakage": 0.4,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7142857142857143,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.0
+    }
+  },
+  "s_ep25_bs16_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.4067796610169492,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.3076923076923077,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.13333333333333333,
+      "insufficient_liquid_supply_and_vibration": 0.2857142857142857,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.4262295081967213,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.26666666666666666,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.3333333333333333,
+      "insufficient_liquid_supply_and_vibration": 0.36363636363636365,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    }
+  },
+  "s_ep25_bs32_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.7272727272727273,
+      "29_natural_flowing": 0.6666666666666666,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8888888888888888,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.8
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6666666666666666,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.4827586206896552,
+      "30_pump_leakage": 0.18181818181818182,
+      "collide_pump_and_vibration": 0.8,
+      "gas_influence": 0.8,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.25
+    }
+  },
+  "s_ep25_bs32_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.6896551724137931,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.5833333333333334,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.3333333333333333,
+      "gas_influence_and_vibration": 0.5882352941176471,
+      "insufficient_liquid_supply_and_vibration": 0.7272727272727273,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6206896551724138,
+      "12_full_load_production": 0.5,
+      "29_natural_flowing": 0.6206896551724138,
+      "30_pump_leakage": 0.2,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.9090909090909091,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.0
+    }
+  },
+  "s_ep25_bs32_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.4,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.16666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.2857142857142857,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.4375,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.25,
+      "insufficient_liquid_supply_and_vibration": 0.23076923076923078,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    }
+  },
+  "s_ep25_bs8_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.7142857142857143,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.6666666666666666,
+      "30_pump_leakage": 0.2,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.75,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "severe_insufficient_liquid_supply": 1.0,
+      "vibration": 0.6
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5925925925925926,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.4444444444444444,
+      "30_pump_leakage": 0.18181818181818182,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.25
+    }
+  },
+  "s_ep25_bs8_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.72,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.3333333333333333,
+      "gas_influence_and_vibration": 0.5555555555555556,
+      "insufficient_liquid_supply_and_vibration": 0.6666666666666666,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5185185185185185,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.6206896551724138,
+      "30_pump_leakage": 0.2222222222222222,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.0
+    }
+  },
+  "s_ep25_bs8_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.42857142857142855,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.46153846153846156,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.14285714285714285,
+      "insufficient_liquid_supply_and_vibration": 0.43478260869565216,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.45614035087719296,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.26666666666666666,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.4,
+      "insufficient_liquid_supply_and_vibration": 0.35714285714285715,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    }
+  },
+  "s_ep50_bs16_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.6666666666666666,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.7,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.7368421052631579,
+      "insufficient_liquid_supply_and_vibration": 0.8235294117647058,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.6
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.7333333333333333,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.5454545454545454,
+      "30_pump_leakage": 0.375,
+      "collide_pump_and_vibration": 0.8,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.4444444444444444
+    }
+  },
+  "s_ep50_bs16_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.7407407407407407,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.72,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.7777777777777778,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "vibration": 0.4444444444444444
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5185185185185185,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.4827586206896552,
+      "30_pump_leakage": 0.3333333333333333,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.0
+    }
+  },
+  "s_ep50_bs16_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.4583333333333333,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.5,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.5263157894736842,
+      "insufficient_liquid_supply_and_vibration": 0.5263157894736842,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5652173913043478,
+      "12_full_load_production": 0.2857142857142857,
+      "29_natural_flowing": 0.5217391304347826,
+      "30_pump_leakage": 0.2222222222222222,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.47058823529411764,
+      "insufficient_liquid_supply_and_vibration": 0.5714285714285714,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "vibration": 0.0
+    }
+  },
+  "s_ep50_bs32_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.7407407407407407,
+      "12_full_load_production": 0.5454545454545454,
+      "29_natural_flowing": 0.7058823529411765,
+      "30_pump_leakage": 0.6,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.631578947368421,
+      "insufficient_liquid_supply_and_vibration": 0.8,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.5
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5833333333333334,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.4,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.4444444444444444
+    }
+  },
+  "s_ep50_bs32_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.7857142857142857,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.6666666666666666,
+      "30_pump_leakage": 0.2222222222222222,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "vibration": 0.4
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6666666666666666,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.5384615384615384,
+      "30_pump_leakage": 0.3076923076923077,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.0
+    }
+  },
+  "s_ep50_bs32_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.5,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.625,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.25,
+      "insufficient_liquid_supply_and_vibration": 0.5454545454545454,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.4897959183673469,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.4,
+      "30_pump_leakage": 0.2222222222222222,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.2857142857142857,
+      "insufficient_liquid_supply_and_vibration": 0.46153846153846156,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    }
+  },
+  "s_ep50_bs8_lr1e-02": {
+    "val": {
+      "10_severe_vibration": 0.6086956521739131,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.631578947368421,
+      "30_pump_leakage": 0.7142857142857143,
+      "collide_pump_and_vibration": 0.75,
+      "gas_influence": 0.75,
+      "gas_influence_and_vibration": 0.7142857142857143,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "severe_insufficient_liquid_supply": 0.9090909090909091,
+      "vibration": 0.6666666666666666
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.64,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.38095238095238093,
+      "30_pump_leakage": 0.3157894736842105,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "gas_influence": 0.5,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8181818181818182,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.2222222222222222
+    }
+  },
+  "s_ep50_bs8_lr1e-03": {
+    "val": {
+      "10_severe_vibration": 0.72,
+      "12_full_load_production": 0.8888888888888888,
+      "29_natural_flowing": 0.7272727272727273,
+      "30_pump_leakage": 0.7142857142857143,
+      "collide_pump_and_vibration": 0.8888888888888888,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.5
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.6153846153846154,
+      "12_full_load_production": 0.5714285714285714,
+      "29_natural_flowing": 0.5217391304347826,
+      "30_pump_leakage": 0.35294117647058826,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.0
+    }
+  },
+  "s_ep50_bs8_lr1e-04": {
+    "val": {
+      "10_severe_vibration": 0.5,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.5555555555555556,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.42105263157894735,
+      "insufficient_liquid_supply_and_vibration": 0.631578947368421,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "vibration": 0.0
+    },
+    "class_names": [
+      "10_severe_vibration",
+      "12_full_load_production",
+      "29_natural_flowing",
+      "30_pump_leakage",
+      "collide_pump_and_vibration",
+      "gas_influence",
+      "gas_influence_and_vibration",
+      "insufficient_liquid_supply_and_vibration",
+      "severe_insufficient_liquid_supply",
+      "vibration"
+    ],
+    "test": {
+      "10_severe_vibration": 0.5531914893617021,
+      "12_full_load_production": 0.2857142857142857,
+      "29_natural_flowing": 0.5217391304347826,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.2857142857142857,
+      "insufficient_liquid_supply_and_vibration": 0.4166666666666667,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "vibration": 0.0
+    }
+  }
+}
