@@ -326,7 +326,30 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.02666666666666667,
+    "accuracy_val": 0.057971014492753624,
+    "precision_macro_val": 0.022222222222222223,
+    "recall_macro_val": 0.03333333333333333,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.32,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.02403846153846154,
+    "accuracy_test": 0.07142857142857142,
+    "precision_macro_test": 0.018315018315018312,
+    "recall_macro_test": 0.03496503496503496
   },
   "m_ep25_bs8_lr1e-02": {
     "variant": "m",
@@ -691,7 +714,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3691714405060269,
+    "accuracy_val": 0.43478260869565216,
+    "precision_macro_val": 0.3841269841269841,
+    "recall_macro_val": 0.3607142857142857,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.875,
+      "insufficient_liquid_supply_and_vibration": 0.9473684210526315,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.6
+    },
+    "f1_macro_test": 0.3076086956521739,
+    "accuracy_test": 0.35714285714285715,
+    "precision_macro_test": 0.38095238095238093,
+    "recall_macro_test": 0.2755102040816327
   },
   "m_ep25_bs8_lr1e-03": {
     "variant": "m",
@@ -1056,7 +1104,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3242194313622885,
+    "accuracy_val": 0.37681159420289856,
+    "precision_macro_val": 0.35129870129870133,
+    "recall_macro_val": 0.3081632653061225,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.0,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.7692307692307693,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.5
+    },
+    "f1_macro_test": 0.2278649921507064,
+    "accuracy_test": 0.2571428571428571,
+    "precision_macro_test": 0.24642857142857144,
+    "recall_macro_test": 0.22065553494124926
   },
   "m_ep25_bs8_lr1e-04": {
     "variant": "m",
@@ -1351,7 +1424,30 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.02,
+    "accuracy_val": 0.043478260869565216,
+    "precision_macro_val": 0.016666666666666666,
+    "recall_macro_val": 0.024999999999999998,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.24,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.03888888888888889,
+    "accuracy_test": 0.1,
+    "precision_macro_test": 0.03070175438596491,
+    "recall_macro_test": 0.05303030303030303
   },
   "n_ep25_bs16_lr1e-02": {
     "variant": "n",
@@ -1716,7 +1812,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.32454648526077096,
+    "accuracy_val": 0.37681159420289856,
+    "precision_macro_val": 0.3495670995670995,
+    "recall_macro_val": 0.31479591836734694,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.2857142857142857
+    },
+    "f1_macro_test": 0.31070764983808463,
+    "accuracy_test": 0.34285714285714286,
+    "precision_macro_test": 0.3511904761904762,
+    "recall_macro_test": 0.2826221397649969
   },
   "n_ep25_bs16_lr1e-03": {
     "variant": "n",
@@ -2081,7 +2202,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.2889746010046762,
+    "accuracy_val": 0.34782608695652173,
+    "precision_macro_val": 0.2968975468975469,
+    "recall_macro_val": 0.2897959183673469,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7368421052631579,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.18181818181818182
+    },
+    "f1_macro_test": 0.2962842712842713,
+    "accuracy_test": 0.34285714285714286,
+    "precision_macro_test": 0.3268398268398269,
+    "recall_macro_test": 0.2785405071119357
   },
   "n_ep25_bs16_lr1e-04": {
     "variant": "n",
@@ -2446,7 +2592,31 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.04895104895104895,
+    "accuracy_val": 0.08695652173913043,
+    "precision_macro_val": 0.05128205128205129,
+    "recall_macro_val": 0.04945054945054945,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.18181818181818182,
+      "insufficient_liquid_supply_and_vibration": 0.45454545454545453,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.10679653679653679,
+    "accuracy_test": 0.12857142857142856,
+    "precision_macro_test": 0.19132653061224492,
+    "recall_macro_test": 0.08726035868893012
   },
   "n_ep25_bs32_lr1e-02": {
     "variant": "n",
@@ -2811,7 +2981,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.34968381291910705,
+    "accuracy_val": 0.4057971014492754,
+    "precision_macro_val": 0.35833333333333334,
+    "recall_macro_val": 0.35051020408163264,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.75,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8235294117647058,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.7272727272727273
+    },
+    "f1_macro_test": 0.3342570473005256,
+    "accuracy_test": 0.37142857142857144,
+    "precision_macro_test": 0.37499999999999994,
+    "recall_macro_test": 0.30884353741496595
   },
   "n_ep25_bs32_lr1e-03": {
     "variant": "n",
@@ -3176,7 +3371,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.2630907626208378,
+    "accuracy_val": 0.30434782608695654,
+    "precision_macro_val": 0.2857142857142857,
+    "recall_macro_val": 0.2510204081632653,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.625,
+      "insufficient_liquid_supply_and_vibration": 0.7368421052631579,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.2864512471655329,
+    "accuracy_test": 0.3142857142857143,
+    "precision_macro_test": 0.3236394557823129,
+    "recall_macro_test": 0.26184291898577616
   },
   "n_ep25_bs32_lr1e-04": {
     "variant": "n",
@@ -3541,7 +3761,31 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.05384615384615384,
+    "accuracy_val": 0.10144927536231885,
+    "precision_macro_val": 0.05860805860805861,
+    "recall_macro_val": 0.05714285714285715,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.2,
+      "insufficient_liquid_supply_and_vibration": 0.5,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.050604567845947156,
+    "accuracy_test": 0.1,
+    "precision_macro_test": 0.05555555555555556,
+    "recall_macro_test": 0.05287569573283858
   },
   "n_ep25_bs8_lr1e-02": {
     "variant": "n",
@@ -3906,7 +4150,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3166666666666666,
+    "accuracy_val": 0.37681159420289856,
+    "precision_macro_val": 0.33290043290043286,
+    "recall_macro_val": 0.3112244897959184,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.0,
+      "vibration": 0.6
+    },
+    "f1_macro_test": 0.3425736961451246,
+    "accuracy_test": 0.38571428571428573,
+    "precision_macro_test": 0.4073783359497645,
+    "recall_macro_test": 0.32312925170068024
   },
   "n_ep25_bs8_lr1e-03": {
     "variant": "n",
@@ -4271,7 +4540,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.26385554221688673,
+    "accuracy_val": 0.3188405797101449,
+    "precision_macro_val": 0.27878787878787875,
+    "recall_macro_val": 0.26122448979591834,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.6666666666666666,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.75,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.24009737674333947,
+    "accuracy_test": 0.3,
+    "precision_macro_test": 0.2380952380952381,
+    "recall_macro_test": 0.24755720470006184
   },
   "n_ep25_bs8_lr1e-04": {
     "variant": "n",
@@ -4600,7 +4894,31 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.08632478632478632,
+    "accuracy_val": 0.10144927536231885,
+    "precision_macro_val": 0.14038461538461539,
+    "recall_macro_val": 0.06868131868131867,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.4,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.16666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.5555555555555556,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.06959706959706959,
+    "accuracy_test": 0.1,
+    "precision_macro_test": 0.12307692307692308,
+    "recall_macro_test": 0.05734265734265734
   },
   "n_ep50_bs16_lr1e-02": {
     "variant": "n",
@@ -4965,7 +5283,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3861884147598433,
+    "accuracy_val": 0.463768115942029,
+    "precision_macro_val": 0.39583333333333337,
+    "recall_macro_val": 0.3821428571428571,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.9333333333333333,
+      "insufficient_liquid_supply_and_vibration": 1.0,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.7272727272727273
+    },
+    "f1_macro_test": 0.30963203463203465,
+    "accuracy_test": 0.35714285714285715,
+    "precision_macro_test": 0.3596320346320346,
+    "recall_macro_test": 0.29109461966604827
   },
   "n_ep50_bs16_lr1e-03": {
     "variant": "n",
@@ -5330,7 +5673,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.31543279193655127,
+    "accuracy_val": 0.37681159420289856,
+    "precision_macro_val": 0.3253968253968253,
+    "recall_macro_val": 0.3112244897959184,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.75,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.36363636363636365
+    },
+    "f1_macro_test": 0.2988095238095238,
+    "accuracy_test": 0.32857142857142857,
+    "precision_macro_test": 0.33134920634920634,
+    "recall_macro_test": 0.279839208410637
   },
   "n_ep50_bs16_lr1e-04": {
     "variant": "n",
@@ -5695,7 +6063,31 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.14648633417864187,
+    "accuracy_val": 0.17391304347826086,
+    "precision_macro_val": 0.20256410256410257,
+    "recall_macro_val": 0.1379120879120879,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.15384615384615385,
+      "insufficient_liquid_supply_and_vibration": 0.56,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.20122005323868677,
+    "accuracy_test": 0.24285714285714285,
+    "precision_macro_test": 0.23129251700680273,
+    "recall_macro_test": 0.18324056895485466
   },
   "n_ep50_bs32_lr1e-02": {
     "variant": "n",
@@ -6060,7 +6452,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3513947843890347,
+    "accuracy_val": 0.42028985507246375,
+    "precision_macro_val": 0.37142857142857144,
+    "recall_macro_val": 0.34285714285714286,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.0,
+      "gas_influence": 0.8571428571428571,
+      "gas_influence_and_vibration": 0.8235294117647058,
+      "insufficient_liquid_supply_and_vibration": 0.9473684210526315,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.5454545454545454
+    },
+    "f1_macro_test": 0.2846320346320346,
+    "accuracy_test": 0.32857142857142857,
+    "precision_macro_test": 0.33701298701298704,
+    "recall_macro_test": 0.26252319109461963
   },
   "n_ep50_bs32_lr1e-03": {
     "variant": "n",
@@ -6425,7 +6842,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.33219954648526073,
+    "accuracy_val": 0.42028985507246375,
+    "precision_macro_val": 0.33106060606060606,
+    "recall_macro_val": 0.3469387755102041,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.8,
+      "insufficient_liquid_supply_and_vibration": 0.8571428571428571,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "severe_vibration": 0.0,
+      "vibration": 0.5333333333333333
+    },
+    "f1_macro_test": 0.2839874411302982,
+    "accuracy_test": 0.32857142857142857,
+    "precision_macro_test": 0.29566326530612247,
+    "recall_macro_test": 0.28392084106369825
   },
   "n_ep50_bs32_lr1e-04": {
     "variant": "n",
@@ -6790,7 +7232,31 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.10325015007289254,
+    "accuracy_val": 0.13043478260869565,
+    "precision_macro_val": 0.1252465483234714,
+    "recall_macro_val": 0.09560439560439561,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.15384615384615385,
+      "insufficient_liquid_supply_and_vibration": 0.5217391304347826,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.0,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.20432900432900433,
+    "accuracy_test": 0.2571428571428571,
+    "precision_macro_test": 0.22159090909090912,
+    "recall_macro_test": 0.19344465058750773
   },
   "n_ep50_bs8_lr1e-02": {
     "variant": "n",
@@ -7155,7 +7621,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3281385281385282,
+    "accuracy_val": 0.4057971014492754,
+    "precision_macro_val": 0.36450216450216455,
+    "recall_macro_val": 0.33214285714285713,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.7777777777777778,
+      "insufficient_liquid_supply_and_vibration": 0.8888888888888888,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8,
+      "severe_vibration": 0.0,
+      "vibration": 0.7272727272727273
+    },
+    "f1_macro_test": 0.29415584415584417,
+    "accuracy_test": 0.32857142857142857,
+    "precision_macro_test": 0.3530844155844156,
+    "recall_macro_test": 0.2666048237476809
   },
   "n_ep50_bs8_lr1e-03": {
     "variant": "n",
@@ -7520,7 +8011,32 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.28843537414965986,
+    "accuracy_val": 0.3333333333333333,
+    "precision_macro_val": 0.3103896103896103,
+    "recall_macro_val": 0.2826530612244898,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 1.0,
+      "full_load_production": 0.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.75,
+      "natural_flowing": 0.0,
+      "pump_leakage": 0.0,
+      "severe_insufficient_liquid_supply": 0.8,
+      "severe_vibration": 0.0,
+      "vibration": 0.25
+    },
+    "f1_macro_test": 0.22269960615825274,
+    "accuracy_test": 0.2571428571428571,
+    "precision_macro_test": 0.22831632653061223,
+    "recall_macro_test": 0.22436611008039578
   },
   "n_ep50_bs8_lr1e-04": {
     "variant": "n",
@@ -7885,7 +8401,31 @@
       "severe_insufficient_liquid_supply",
       "severe_vibration",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.15604395604395604,
+    "accuracy_val": 0.17391304347826086,
+    "precision_macro_val": 0.1835164835164835,
+    "recall_macro_val": 0.1412087912087912,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.0,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "full_load_production": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.2857142857142857,
+      "insufficient_liquid_supply_and_vibration": 0.6,
+      "natural_flowing": 0.0,
+      "severe_insufficient_liquid_supply": 0.2857142857142857,
+      "severe_vibration": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.20153061224489793,
+    "accuracy_test": 0.22857142857142856,
+    "precision_macro_test": 0.23922902494331066,
+    "recall_macro_test": 0.17674706246134816
   },
   "s_ep25_bs16_lr1e-02": {
     "variant": "s",
@@ -8118,7 +8658,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6919158403254513,
+    "accuracy_val": 0.7246376811594203,
+    "precision_macro_val": 0.7294841269841269,
+    "recall_macro_val": 0.711923076923077,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.782608695652174,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.25
+    },
+    "f1_macro_test": 0.6275058275058275,
+    "accuracy_test": 0.6,
+    "precision_macro_test": 0.67,
+    "recall_macro_test": 0.6313419913419913
   },
   "s_ep25_bs16_lr1e-03": {
     "variant": "s",
@@ -8351,7 +8912,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6115633499776723,
+    "accuracy_val": 0.6521739130434783,
+    "precision_macro_val": 0.7015367965367966,
+    "recall_macro_val": 0.6165262515262515,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7142857142857143,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.6956521739130435,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.3333333333333333,
+      "gas_influence_and_vibration": 0.5882352941176471,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.2222222222222222
+    },
+    "f1_macro_test": 0.587756796205072,
+    "accuracy_test": 0.6285714285714286,
+    "precision_macro_test": 0.6151540616246499,
+    "recall_macro_test": 0.5994372294372294
   },
   "s_ep25_bs16_lr1e-04": {
     "variant": "s",
@@ -8584,7 +9166,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.11335195877568757,
+    "accuracy_val": 0.2608695652173913,
+    "precision_macro_val": 0.1158596837944664,
+    "recall_macro_val": 0.1588156288156288,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.4067796610169492,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.3076923076923077,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.13333333333333333,
+      "insufficient_liquid_supply_and_vibration": 0.2857142857142857,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.17231992051664183,
+    "accuracy_test": 0.3142857142857143,
+    "precision_macro_test": 0.24402321083172146,
+    "recall_macro_test": 0.1977922077922078
   },
   "s_ep25_bs32_lr1e-02": {
     "variant": "s",
@@ -8817,7 +9420,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.7210139207198031,
+    "accuracy_val": 0.7391304347826086,
+    "precision_macro_val": 0.7899999999999999,
+    "recall_macro_val": 0.7358119658119657,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.7272727272727273,
+      "29_natural_flowing": 0.6666666666666666,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8888888888888888,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.8
+    },
+    "f1_macro_test": 0.5999425287356323,
+    "accuracy_test": 0.6,
+    "precision_macro_test": 0.6587243896454422,
+    "recall_macro_test": 0.5751515151515151
   },
   "s_ep25_bs32_lr1e-03": {
     "variant": "s",
@@ -9050,7 +9674,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.5721829860470834,
+    "accuracy_val": 0.6231884057971014,
+    "precision_macro_val": 0.6558333333333334,
+    "recall_macro_val": 0.5854151404151404,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.6896551724137931,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.5833333333333334,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.3333333333333333,
+      "gas_influence_and_vibration": 0.5882352941176471,
+      "insufficient_liquid_supply_and_vibration": 0.7272727272727273,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.5371898790864308,
+    "accuracy_test": 0.6142857142857143,
+    "precision_macro_test": 0.5732775119617225,
+    "recall_macro_test": 0.5451948051948051
   },
   "s_ep25_bs32_lr1e-04": {
     "variant": "s",
@@ -9283,7 +9928,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.08523809523809524,
+    "accuracy_val": 0.2463768115942029,
+    "precision_macro_val": 0.07227272727272727,
+    "recall_macro_val": 0.1442857142857143,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.4,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.16666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.2857142857142857,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.1251602564102564,
+    "accuracy_test": 0.2714285714285714,
+    "precision_macro_test": 0.248,
+    "recall_macro_test": 0.16155844155844154
   },
   "s_ep25_bs8_lr1e-02": {
     "variant": "s",
@@ -9516,7 +10182,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6812273330384786,
+    "accuracy_val": 0.6956521739130435,
+    "precision_macro_val": 0.7172222222222222,
+    "recall_macro_val": 0.6797008547008547,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7142857142857143,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.6666666666666666,
+      "30_pump_leakage": 0.2,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.75,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "severe_insufficient_liquid_supply": 1.0,
+      "vibration": 0.6
+    },
+    "f1_macro_test": 0.572037037037037,
+    "accuracy_test": 0.5857142857142857,
+    "precision_macro_test": 0.6261507610037021,
+    "recall_macro_test": 0.5646753246753248
   },
   "s_ep25_bs8_lr1e-03": {
     "variant": "s",
@@ -9749,7 +10436,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6208888888888889,
+    "accuracy_val": 0.6666666666666666,
+    "precision_macro_val": 0.6786742424242425,
+    "recall_macro_val": 0.6319230769230769,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.72,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.3333333333333333,
+      "gas_influence_and_vibration": 0.5555555555555556,
+      "insufficient_liquid_supply_and_vibration": 0.6666666666666666,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.5856668491151249,
+    "accuracy_test": 0.6285714285714286,
+    "precision_macro_test": 0.5928812415654521,
+    "recall_macro_test": 0.6151515151515151
   },
   "s_ep25_bs8_lr1e-04": {
     "variant": "s",
@@ -9982,7 +10690,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.19121940861071293,
+    "accuracy_val": 0.3333333333333333,
+    "precision_macro_val": 0.2556542294914388,
+    "recall_macro_val": 0.21849816849816853,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.42857142857142855,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.46153846153846156,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.14285714285714285,
+      "insufficient_liquid_supply_and_vibration": 0.43478260869565216,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.181328320802005,
+    "accuracy_test": 0.32857142857142857,
+    "precision_macro_test": 0.26631098951208393,
+    "recall_macro_test": 0.2068831168831169
   },
   "s_ep50_bs8_lr1e-04": {
     "variant": "s",
@@ -10215,7 +10944,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3219298245614035,
+    "accuracy_val": 0.4492753623188406,
+    "precision_macro_val": 0.48984126984126986,
+    "recall_macro_val": 0.3335775335775336,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.5,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.5555555555555556,
+      "30_pump_leakage": 0.4444444444444444,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.42105263157894735,
+      "insufficient_liquid_supply_and_vibration": 0.631578947368421,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.2646359191225056,
+    "accuracy_test": 0.4142857142857143,
+    "precision_macro_test": 0.4025807525807526,
+    "recall_macro_test": 0.2811688311688312
   },
   "s_ep50_bs8_lr1e-03": {
     "variant": "s",
@@ -10448,7 +11198,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.7189336219336219,
+    "accuracy_val": 0.7246376811594203,
+    "precision_macro_val": 0.7565276390276391,
+    "recall_macro_val": 0.7109768009768009,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.72,
+      "12_full_load_production": 0.8888888888888888,
+      "29_natural_flowing": 0.7272727272727273,
+      "30_pump_leakage": 0.7142857142857143,
+      "collide_pump_and_vibration": 0.8888888888888888,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.5
+    },
+    "f1_macro_test": 0.5756731588956653,
+    "accuracy_test": 0.6,
+    "precision_macro_test": 0.6044871794871794,
+    "recall_macro_test": 0.5808658008658008
   },
   "s_ep50_bs8_lr1e-02": {
     "variant": "s",
@@ -10681,7 +11452,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.7256508365776101,
+    "accuracy_val": 0.7101449275362319,
+    "precision_macro_val": 0.7360606060606061,
+    "recall_macro_val": 0.7333699633699633,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.6086956521739131,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.631578947368421,
+      "30_pump_leakage": 0.7142857142857143,
+      "collide_pump_and_vibration": 0.75,
+      "gas_influence": 0.75,
+      "gas_influence_and_vibration": 0.7142857142857143,
+      "insufficient_liquid_supply_and_vibration": 0.7619047619047619,
+      "severe_insufficient_liquid_supply": 0.9090909090909091,
+      "vibration": 0.6666666666666666
+    },
+    "f1_macro_test": 0.5950955418850156,
+    "accuracy_test": 0.5857142857142857,
+    "precision_macro_test": 0.6584090909090909,
+    "recall_macro_test": 0.5865800865800865
   },
   "s_ep50_bs16_lr1e-04": {
     "variant": "s",
@@ -10914,7 +11706,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.3344298245614035,
+    "accuracy_val": 0.43478260869565216,
+    "precision_macro_val": 0.4857936507936508,
+    "recall_macro_val": 0.3447741147741148,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.4583333333333333,
+      "12_full_load_production": 0.75,
+      "29_natural_flowing": 0.5,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.5263157894736842,
+      "insufficient_liquid_supply_and_vibration": 0.5263157894736842,
+      "severe_insufficient_liquid_supply": 0.3333333333333333,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.29702431697316606,
+    "accuracy_test": 0.45714285714285713,
+    "precision_macro_test": 0.38677884615384617,
+    "recall_macro_test": 0.3188311688311688
   },
   "s_ep50_bs16_lr1e-03": {
     "variant": "s",
@@ -11147,7 +11960,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6899162776221599,
+    "accuracy_val": 0.7101449275362319,
+    "precision_macro_val": 0.7718452380952381,
+    "recall_macro_val": 0.696923076923077,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7407407407407407,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.72,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.7777777777777778,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "vibration": 0.4444444444444444
+    },
+    "f1_macro_test": 0.5341753329684364,
+    "accuracy_test": 0.5571428571428572,
+    "precision_macro_test": 0.5748549257759784,
+    "recall_macro_test": 0.5218181818181818
   },
   "s_ep50_bs16_lr1e-02": {
     "variant": "s",
@@ -11380,7 +12214,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.657703818369453,
+    "accuracy_val": 0.6811594202898551,
+    "precision_macro_val": 0.7779360835243188,
+    "recall_macro_val": 0.6589865689865689,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.6666666666666666,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.7,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.6666666666666666,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.7368421052631579,
+      "insufficient_liquid_supply_and_vibration": 0.8235294117647058,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.6
+    },
+    "f1_macro_test": 0.6238708513708514,
+    "accuracy_test": 0.6428571428571429,
+    "precision_macro_test": 0.6795833333333332,
+    "recall_macro_test": 0.5946753246753247
   },
   "s_ep50_bs32_lr1e-04": {
     "variant": "s",
@@ -11613,7 +12468,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.25037878787878787,
+    "accuracy_val": 0.4057971014492754,
+    "precision_macro_val": 0.376984126984127,
+    "recall_macro_val": 0.2784126984126984,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.5,
+      "12_full_load_production": 0.3333333333333333,
+      "29_natural_flowing": 0.625,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.25,
+      "insufficient_liquid_supply_and_vibration": 0.5454545454545454,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.21926042211756497,
+    "accuracy_test": 0.37142857142857144,
+    "precision_macro_test": 0.29285714285714287,
+    "recall_macro_test": 0.24311688311688312
   },
   "s_ep50_bs32_lr1e-03": {
     "variant": "s",
@@ -11846,7 +12722,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6710359231411862,
+    "accuracy_val": 0.6956521739130435,
+    "precision_macro_val": 0.7097222222222223,
+    "recall_macro_val": 0.6692185592185592,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7857142857142857,
+      "12_full_load_production": 0.6666666666666666,
+      "29_natural_flowing": 0.6666666666666666,
+      "30_pump_leakage": 0.2222222222222222,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.8421052631578947,
+      "severe_insufficient_liquid_supply": 0.8888888888888888,
+      "vibration": 0.4
+    },
+    "f1_macro_test": 0.5703296703296703,
+    "accuracy_test": 0.6142857142857143,
+    "precision_macro_test": 0.6379166666666667,
+    "recall_macro_test": 0.5575324675324674
   },
   "s_ep50_bs32_lr1e-02": {
     "variant": "s",
@@ -12079,7 +12976,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.659032325317155,
+    "accuracy_val": 0.6811594202898551,
+    "precision_macro_val": 0.7442857142857143,
+    "recall_macro_val": 0.6571611721611721,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7407407407407407,
+      "12_full_load_production": 0.5454545454545454,
+      "29_natural_flowing": 0.7058823529411765,
+      "30_pump_leakage": 0.6,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.631578947368421,
+      "insufficient_liquid_supply_and_vibration": 0.8,
+      "severe_insufficient_liquid_supply": 0.6666666666666666,
+      "vibration": 0.5
+    },
+    "f1_macro_test": 0.5957469654528478,
+    "accuracy_test": 0.5857142857142857,
+    "precision_macro_test": 0.6722222222222223,
+    "recall_macro_test": 0.576103896103896
   },
   "m_ep25_bs16_lr1e-03": {
     "variant": "m",
@@ -12312,7 +13230,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6734725703146756,
+    "accuracy_val": 0.6956521739130435,
+    "precision_macro_val": 0.7440692640692641,
+    "recall_macro_val": 0.678986568986569,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7407407407407407,
+      "12_full_load_production": 0.8333333333333334,
+      "29_natural_flowing": 0.7368421052631579,
+      "30_pump_leakage": 0.4,
+      "collide_pump_and_vibration": 0.8571428571428571,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.6666666666666666,
+      "insufficient_liquid_supply_and_vibration": 0.7,
+      "severe_insufficient_liquid_supply": 1.0,
+      "vibration": 0.4
+    },
+    "f1_macro_test": 0.5181872515568168,
+    "accuracy_test": 0.5285714285714286,
+    "precision_macro_test": 0.5434521687462863,
+    "recall_macro_test": 0.5280086580086579
   },
   "m_ep25_bs16_lr1e-02": {
     "variant": "m",
@@ -12545,7 +13484,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.6577645093124969,
+    "accuracy_val": 0.6811594202898551,
+    "precision_macro_val": 0.7003571428571429,
+    "recall_macro_val": 0.6532722832722831,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.7142857142857143,
+      "12_full_load_production": 0.6,
+      "29_natural_flowing": 0.7368421052631579,
+      "30_pump_leakage": 0.6,
+      "collide_pump_and_vibration": 0.5714285714285714,
+      "gas_influence": 0.5714285714285714,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.7777777777777778,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.5
+    },
+    "f1_macro_test": 0.5683047581073897,
+    "accuracy_test": 0.5857142857142857,
+    "precision_macro_test": 0.6407828282828282,
+    "recall_macro_test": 0.5455844155844155
   },
   "m_ep25_bs32_lr1e-04": {
     "variant": "m",
@@ -12778,7 +13738,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.1,
+    "accuracy_val": 0.2463768115942029,
+    "precision_macro_val": 0.09711835334476845,
+    "recall_macro_val": 0.14683760683760685,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.3333333333333333,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.2857142857142857,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.38095238095238093,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.10717418546365916,
+    "accuracy_test": 0.2714285714285714,
+    "precision_macro_test": 0.09733333333333333,
+    "recall_macro_test": 0.1520779220779221
   },
   "m_ep25_bs32_lr1e-03": {
     "variant": "m",
@@ -13011,7 +13992,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.630958975664858,
+    "accuracy_val": 0.6811594202898551,
+    "precision_macro_val": 0.7579166666666667,
+    "recall_macro_val": 0.6408119658119659,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.8,
+      "12_full_load_production": 0.7272727272727273,
+      "29_natural_flowing": 0.7619047619047619,
+      "30_pump_leakage": 0.25,
+      "collide_pump_and_vibration": 1.0,
+      "gas_influence": 0.4,
+      "gas_influence_and_vibration": 0.7058823529411765,
+      "insufficient_liquid_supply_and_vibration": 0.6923076923076923,
+      "severe_insufficient_liquid_supply": 0.75,
+      "vibration": 0.2222222222222222
+    },
+    "f1_macro_test": 0.5244594011652836,
+    "accuracy_test": 0.5857142857142857,
+    "precision_macro_test": 0.5797478991596638,
+    "recall_macro_test": 0.5342857142857143
   },
   "m_ep25_bs32_lr1e-02": {
     "variant": "m",
@@ -13244,7 +14246,28 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.7493186769657358,
+    "accuracy_val": 0.7536231884057971,
+    "precision_macro_val": 0.774126984126984,
+    "recall_macro_val": 0.7630280830280831,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.8148148148148148,
+      "12_full_load_production": 0.8,
+      "29_natural_flowing": 0.5555555555555556,
+      "30_pump_leakage": 0.5,
+      "collide_pump_and_vibration": 0.8,
+      "gas_influence": 0.6666666666666666,
+      "gas_influence_and_vibration": 0.8235294117647058,
+      "insufficient_liquid_supply_and_vibration": 0.8235294117647058,
+      "severe_insufficient_liquid_supply": 0.8,
+      "vibration": 0.9090909090909091
+    },
+    "f1_macro_test": 0.5941502941502942,
+    "accuracy_test": 0.6,
+    "precision_macro_test": 0.6477705627705628,
+    "recall_macro_test": 0.5965800865800865
   },
   "m_ep50_bs8_lr1e-04": {
     "variant": "m",
@@ -13477,6 +14500,27 @@
       "insufficient_liquid_supply_and_vibration",
       "severe_insufficient_liquid_supply",
       "vibration"
-    ]
+    ],
+    "f1_macro_val": 0.04871794871794872,
+    "accuracy_val": 0.2028985507246377,
+    "precision_macro_val": 0.05333333333333333,
+    "recall_macro_val": 0.11000000000000001,
+    "n_val_images": 69,
+    "f1_per_class_val": {
+      "10_severe_vibration": 0.3333333333333333,
+      "12_full_load_production": 0.0,
+      "29_natural_flowing": 0.0,
+      "30_pump_leakage": 0.0,
+      "collide_pump_and_vibration": 0.0,
+      "gas_influence": 0.0,
+      "gas_influence_and_vibration": 0.0,
+      "insufficient_liquid_supply_and_vibration": 0.15384615384615385,
+      "severe_insufficient_liquid_supply": 0.0,
+      "vibration": 0.0
+    },
+    "f1_macro_test": 0.034999999999999996,
+    "accuracy_test": 0.2,
+    "precision_macro_test": 0.021212121212121213,
+    "recall_macro_test": 0.1
   }
 }

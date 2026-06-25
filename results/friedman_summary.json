@@ -1,6 +1,6 @@
 {
-  "chi2": 1.000000000000003,
-  "p_value": 0.6065306597126324,
+  "chi2": 0.20000000000000284,
+  "p_value": 0.9048374180359583,
   "n_blocks": 10,
   "n_treatments": 3,
   "significant": false,
@@ -16,5 +16,5 @@
     "severe_insufficient_liquid_supply",
     "vibration"
   ],
-  "effective_split": "test"
+  "effective_split": "val"
 }
