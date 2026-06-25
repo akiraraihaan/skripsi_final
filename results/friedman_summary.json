@@ -1,0 +1,20 @@
+{
+  "chi2": 1.000000000000003,
+  "p_value": 0.6065306597126324,
+  "n_blocks": 10,
+  "n_treatments": 3,
+  "significant": false,
+  "classes_used": [
+    "10_severe_vibration",
+    "12_full_load_production",
+    "29_natural_flowing",
+    "30_pump_leakage",
+    "collide_pump_and_vibration",
+    "gas_influence",
+    "gas_influence_and_vibration",
+    "insufficient_liquid_supply_and_vibration",
+    "severe_insufficient_liquid_supply",
+    "vibration"
+  ],
+  "effective_split": "test"
+}
