@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(Get-Content \"d:\\\\skripshi\\\\FINAL-pipeline\\\\code-simplified.ipynb\" | Select-Object -Index \\(378..460\\))"
-    ]
-  }
-}
