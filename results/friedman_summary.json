@@ -1,10 +1,14 @@
 {
-  "chi2": 4.09523809523809,
-  "p_value": 0.12904178044763664,
-  "n_blocks": 6,
+  "chi2": 2.3243243243243303,
+  "p_value": 0.31280910516146615,
+  "n_blocks": 10,
   "n_treatments": 3,
   "significant": false,
   "classes_used": [
+    "10_severe_vibration",
+    "12_full_load_production",
+    "29_natural_flowing",
+    "30_pump_leakage",
     "collide_pump_and_vibration",
     "gas_influence",
     "gas_influence_and_vibration",
